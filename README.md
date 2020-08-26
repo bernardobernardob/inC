@@ -25,7 +25,9 @@ Para experimentar con otros materiales musicales a partir de la obra de Riley, d
 la partitura en notación ABC de una obra propia inspirada por la técnica compositiva de Riley para **In C**.
 Para escucharla, abrir el parser, cambiar el nombre del fichero .abc de entrada, y seguir los pasos del set-up con estos nuevos ficheros.
 
+Versiones de audio disponibles en [SoundCloud]
 
 
 [PyABC - Python package for parsing and analyzing ABC music notation]: https://github.com/campagnola/pyabc
 [FoxDot/SuperCollider]: https://foxdot.org/installation/
+[SoundCloud]: https://soundcloud.com/user-466350724
